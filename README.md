@@ -8,7 +8,7 @@
 
 ## {{ site.asignatura }}
 
-
+## {{ site.lista_de_la_compra }}
 
 ## Edit this project
 
